@@ -1,0 +1,6 @@
+5 seconds
+10 seconds
+15 seconds
+20 seconds
+5 seconds
+10 seconds
